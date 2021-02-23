@@ -8,7 +8,7 @@ Chart.js is an open source project that draws charts and graphs with Javascript.
 
 You can draw charts easily if you have a little of HTML and Javascript knowledge.
 
-1. Getting Started
+## 1. Getting Started
 
 Chart.js can be downloaded for the Chart.js Github or used via CDN.
 
